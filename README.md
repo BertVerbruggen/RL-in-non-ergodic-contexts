@@ -2,6 +2,7 @@
 Reinforcement learning in path-dependent, non-ergodic contexts
 
 # Content:
+0. Link to raw data repository on (*zenodo*): https://zenodo.org/records/11504478
 1. Data analysis files (Analysis_All_Outputs.ipynb) for all referenced training data in data repository (*zenodo*)
 2. Data analysis for single training result (Analysis_RawData.ipynb), same data repository found in (*zenodo*)
 3. Hyperparameter example model: HyperparameterModel.ipynb
@@ -14,7 +15,7 @@ Each directory contains:
 2. The hyperparameters used to train the model (parameters_$id$.csv)
 3. The model (MOL_ERL_LowData.py)
 4. The log file of the training (logfile_$id$.log)
-5. Training results stored as pickled object (DataDump_$id$.p)
+5. Training results stored as pickle object (DataDump_$id$.p)
 
 # **To reproduce training results:
 Rerun the model python file (MOL_ERL_LowData.py) -> Provide proper reference to the csv file for training (line 40)
