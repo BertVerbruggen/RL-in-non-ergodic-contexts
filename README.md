@@ -2,7 +2,7 @@
 Reinforcement learning in path-dependent, non-ergodic contexts
 
 # Content:
-0. Link to raw data repository on (*zenodo*): https://zenodo.org/records/11504478
+0. Link to raw data repository on (*zenodo*): https://zenodo.org/records/11505665
 1. Data analysis files (Analysis_All_Outputs.ipynb) for all referenced training data in data repository (*zenodo*)
 2. Data analysis for single training result (Analysis_RawData.ipynb), same data repository found in (*zenodo*)
 3. Hyperparameter example model: HyperparameterModel.ipynb
