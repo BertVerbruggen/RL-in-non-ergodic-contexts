@@ -1,0 +1,76 @@
+Testing for id: 5
+In hyperparameters dictionairy stored Id: 5
+In hyperparameters dictionairy stored Epochs: 2500
+In hyperparameters dictionairy stored Runs: 50
+In hyperparameters dictionairy stored Discount: 0.1
+In hyperparameters dictionairy stored learning_rate: 0.9
+In hyperparameters dictionairy stored Epsilon: 0.3
+In hyperparameters dictionairy stored reward1: 2.0
+In hyperparameters dictionairy stored reward2: 0.5
+In hyperparameters dictionairy stored reward3: 1.2
+In hyperparameters dictionairy stored epsilon_strategy: decaying
+In hyperparameters dictionairy stored lr_strategy: decaying
+In hyperparameters dictionairy stored epsilon_rate: 0.995
+In hyperparameters dictionairy stored lr_rate: 0.995
+In hyperparameters dictionairy stored epsilon_min: 0.02
+In hyperparameters dictionairy stored lr_min: 0.01
+Parameters registered
+Results stored in: /rhea/scratch/brussel/107/vsc10780/RL_Experiments/Results_MOL_Run_20240417_142214/5
+Run started at: 04:17:2024 14:23:59
+New model training started, parameters written to parameters_5.csv
+
+Project initialisation started at 2024-04-17 14:23:59.898602
+Training the single-round model started at 2024-04-17 14:23:59.898650
+Finished training single-round model at 2024-04-17 14:25:47.213885
+Models training started at 2024-04-17 14:25:48.908684
+Training for 1 decision(s)
+Training for 2 decision(s)
+Training for 5 decision(s)
+Training for 10 decision(s)
+Training for 15 decision(s)
+Training for 20 decision(s)
+Training for 25 decision(s)
+Training for 30 decision(s)
+Training for 50 decision(s)
+Training for 100 decision(s)
+Training Q_Learning completed at 2024-04-17 20:49:38.083379!
+Training for 1 decision(s)
+Training for 2 decision(s)
+Training for 5 decision(s)
+Training for 10 decision(s)
+Training for 15 decision(s)
+Training for 20 decision(s)
+Training for 25 decision(s)
+Training for 30 decision(s)
+Training for 50 decision(s)
+Training for 100 decision(s)
+Training Sarsa completed at 2024-04-18 01:58:31.775585!
+Training for 1 decision(s)
+Training for 2 decision(s)
+Training for 5 decision(s)
+Training for 10 decision(s)
+Training for 15 decision(s)
+Training for 20 decision(s)
+Training for 25 decision(s)
+Training for 30 decision(s)
+Training for 50 decision(s)
+Training for 100 decision(s)
+Training MC completed at 2024-04-18 10:10:07.931473!
+Training for 1 decision(s)
+Training for 2 decision(s)
+Training for 5 decision(s)
+Training for 10 decision(s)
+Training for 15 decision(s)
+Training for 20 decision(s)
+Training for 25 decision(s)
+Training for 30 decision(s)
+Training for 50 decision(s)
+Training for 100 decision(s)
+Training II completed at 2024-04-18 15:40:53.476057!
+Finished training multiple-round models at 2024-04-18 15:40:53.476240
+Generating output for model Q_Learning
+Generating output for model Sarsa
+Generating output for model MC
+Generating output for model II
+Saved figure on multiple rounds ID5_All_Models_AllRounds.png
+Finished model training and analysis at 2024-04-18 15:41:16.112623, Writing data to output file

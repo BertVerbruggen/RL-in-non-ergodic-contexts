@@ -1,0 +1,15 @@
+Parameter,Value
+reward1,2.0
+reward2,0.5
+reward3,1.2
+episodes,2500
+runs,50
+discount,0.1
+epsilon_method,decaying
+epsilon_initial_value,0.3
+epsilon_decay_rate,0.998
+epsilon_min_value,0.02
+alpha_method,decaying
+alpha_initial_value,0.9
+alpha_decay_rate,0.995
+alpha_min_value,0.01
