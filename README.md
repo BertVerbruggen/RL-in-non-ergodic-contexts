@@ -26,6 +26,9 @@ Import the data directories from (*zenodo*) and run (Analysis_All_Outputs.ipynb)
 
 Figures are generated either by the above procedure or from the Wolfram Mathematica notebook (GenericBinomial.nb) as enclosed in this repo and in (*zenodo*) data repo.
 
+# Hyperparameter sweep:
+Hyperparameter tuning and testing can be done using the HyperparameterModel.ipynb notebook. This is a standalone model to test hyperparameters. The same test can be performed on a larger scale using input parametres from hyperparameter files as shown by the example file (hyperparameters.csv).
+
 # **Feedback
 Enjoy playing around with these models. 
 The training was performed on the HPC supercomputer from the Flemish government (https://www.vscentrum.be/hpc) and analysis on the local machine.
